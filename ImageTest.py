@@ -1,0 +1,4 @@
+class ImageTest:
+	
+	image = ""
+	name = ""
